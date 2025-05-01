@@ -8,6 +8,7 @@ This is an individual assessment. All work must be your own.
 
 #### UI Prerequisites
 
+
 <details>
 <summary>Click to view</summary>
 
@@ -35,7 +36,7 @@ This is an individual assessment. All work must be your own.
 <details>
 <summary>Click to view</summary>
 
-- You can check the **Design Files** for different devices <a href="https://www.figma.com/file/lGl9tRXcsmxicjTITM2A8P/Covid19_Dashboard?node-id=0%3A1" target="_blank" >here</a>
+- You can check the **Design Files** for different devices Figma URL : "https://www.figma.com/design/JmB6It1GqB9LYioDSsAlaV/Covid19_Dashboard---RR?t=HiF1Vl43viI1JETj-1"
 
 </details>
 
