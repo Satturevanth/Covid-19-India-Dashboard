@@ -1,8 +1,18 @@
-In this project let's build a **Covid19 Dashboard** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
+📊 COVID-19 Dashboard
 
-You will demonstrate your skills by creating an app that will fetch data from an internal server using a **class component**, displaying that data, using **component lifecycle** methods, **routing** concepts and adding responsiveness to the website.
+In this project let's build a Covid19 Dashboard by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
+
+You will demonstrate your skills by creating an app that will fetch data from an internal server using a class component, displaying that data, using component lifecycle methods, routing concepts and adding responsiveness to the website.
 
 This is an individual assessment. All work must be your own.
+
+Implemented a responsive Covid Dashboard where users can see confirmed, active, recovered and deceased cases in India state wise. Users also can search by state and see state specific cases info with different types of graphs.
+
+Implemented different routes for features like home, state-specific details, and about by using React Router components Route, Switch, Link.
+Implemented graphs like a bar chart, line chart using React Third Party library Recharts to show different stats.
+Used Figma mockups to implement UI-rich and pixel-perfect React components.
+Explored open-source APIs for covid info and picked covid19india.org APIs for state-wise stats, timelines for graphs, faqs related to COVID.
+Technologies used: HTML, CSS, JavaScript, React JS, Recharts, Figma
 
 ### Prerequisites
 
